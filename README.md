@@ -12,12 +12,6 @@ Hello! This is <a href="https://github.com/Duwon98/About-Me" target="_blank">Duw
 I'm a Junior Developer 🧑🏻‍💻🥷🏼
 </h2> 
 
-I was a person who enjoyed playing computer game and playing around with computer, and that was pretty much why I decided to study IT. AND It was the best decision. I fell in love with programming and solving the problem. Also, Thanks to Universit, I could meet friends who have something in common.
-
-There are tons of programming languages and technologies are changing all the time and I love it!!
-
-
-
 </p>
 
 
