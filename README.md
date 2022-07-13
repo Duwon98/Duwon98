@@ -5,11 +5,11 @@
 
 
 <h3 align="center">
-Hello! This is <a href="https://github.com/Duwon98/About-Me" target="_blank">Duwon</a> 👋
+Hello! This is <a href="https://github.com/Duwon98/About-Me" target="_blank">Duwon</a> 
 </h3>
 
 <h2 align="center">
-I'm a Junior Developer 🧑🏻‍💻🥷🏼
+Junior Developer 
 </h2> 
 
 </p>
