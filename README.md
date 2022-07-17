@@ -10,7 +10,8 @@ Hello! This is <a href="https://github.com/Duwon98/About-Me" target="_blank">Duw
 
 <h2 align="center">
 Junior Developer 
-</h2> 
+</h2>
+While at University, I gained a broad knowledge of IT, such as programming, web development and database. Thanks to University,  I had a dream to become a successful international back-end developer. In order to make that goal a reality, I am currently studying node.js. I will graduate at the end of October and planning to seek long-term employment in the Australian IT industry.
 
 </p>
 
