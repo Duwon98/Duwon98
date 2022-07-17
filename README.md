@@ -1,5 +1,5 @@
 <p align="center">
-<img href="https://github.com/Duwon98?tab=repositories" target="_blank" width="1000" alt="my banner" src="https://github.com/Duwon98/Certificate/blob/main/Ninja.png">
+<img href="https://github.com/Duwon98?tab=repositories" target="_blank" width="1000" alt="my banner" src="https://github.com/Duwon98/Certificate/blob/main/Me.jpeg" width='200'/>
 
 </p>
 
