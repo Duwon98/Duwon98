@@ -11,7 +11,7 @@ Hello! This is <a href="https://github.com/Duwon98/About-Me" target="_blank">Duw
 <h2 align="center">
 Junior Developer 
 </h2>
-While at University, I gained a broad knowledge of IT, such as programming, web development and database. Thanks to University,  I had a dream to become a successful international back-end developer. In order to make that goal a reality, I am currently studying node.js. I will graduate at the end of October and planning to seek long-term employment in the Australian IT industry.
+Griffith University Graduate from IT, Winner of Griffith Academic excellence award, member of Golden Key(International Honor Society), who loves working as a team, brainstorming ideas, discovering solutions, and achieving accomplishments as a team. Aspiring to become a software developer at an enterprise, and work with a competent team to solve real world problems, generate value and create a positive and long lasting impact.
 
 </p>
 
