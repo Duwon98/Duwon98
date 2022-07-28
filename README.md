@@ -98,7 +98,7 @@ While at University, I gained a broad knowledge of IT, such as programming, web 
 - [![](https://img.shields.io/badge/Code-Swift-336791) ![](https://img.shields.io/badge/Database-Core%20Data-brightgreen) -- Favourite place App 📍](https://github.com/Duwon98/FavouritePlacesApp)
 - [![](https://img.shields.io/badge/Code-Swift-336791) ![](https://img.shields.io/badge/Database-Json-yellowgreen) -- Checklist App ✓](https://github.com/Duwon98/Checklist_App)
 - [![](https://img.shields.io/badge/Code-MySQL-blue) -- Database SQL 🔐](https://github.com/Duwon98/database_SQL)
-- [![](https://img.shields.io/badge/Code-MongoDB-blue) -- Database MongoDB 🔐](https://github.com/Duwon98/database_MongoDB)
+- [![](https://img.shields.io/badge/Code-MongoDB-blue) -- Database MongoDB 🔐](https://github.com/Duwon98/MongoDB)
 - [![](https://img.shields.io/badge/Code-Java-F7DF1E) -- Shopping Porgram 🛒](https://github.com/Duwon98/Purchasing_Program)
 - [![](https://img.shields.io/badge/Code-Java-F7DF1E) -- Calculator 1️⃣﹢1️⃣ ﹦ ﹖](https://github.com/Duwon98/Calculator)
 
