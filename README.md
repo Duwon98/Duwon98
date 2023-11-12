@@ -25,18 +25,19 @@ Griffith University Graduate from IT, Winner of Griffith Academic excellence awa
 
 ## 🔭 I'm currently working on
 
-- NodeJS : MVC, REST APIs, GraphQL, Deno
+- .Net
 
 
 ## 🌱 I'm currently learning
 
-- Node.js
+- .Net
 
 
 ## 👨🏻‍💻 Work Experience
 
 | **Organisation** | **Position** | **Type** | **Year** | Reference |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| *Westpac* | Developer | Full-time | 2023 Jan - Present | Please email me|
 | *Subete Pty Ltd* | Junior Software Developer | Intern | Mar-Jun 2022 | **Mr. Jeremy Cade** </br> *jeremy@subete.com.au*|
 | *Griffith College* | Griffith College Ambassador | Part-time | 2020 - Present | **Ms. Lisa Hsu** </br> *Lisa.Hsu@griffithcollege.edu.au*|
 
